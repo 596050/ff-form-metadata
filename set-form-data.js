@@ -32,3 +32,8 @@ form.registerField(
 );
 
 console.log("form.getState()", form.getState());
+
+
+https://github.com/final-form/final-form/issues/378
+https://github.com/final-form/final-form/issues/305
+https://github.com/final-form/final-form/issues/312
