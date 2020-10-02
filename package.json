@@ -1,0 +1,15 @@
+{
+  "name": "finalformfeature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "final-form": "^4.20.1",
+    "final-form-set-field-data": "^1.0.2"
+  }
+}
